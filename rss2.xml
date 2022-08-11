@@ -9,8 +9,30 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>天青色等烟雨，而我在等你！</description>
-    <pubDate>Wed, 10 Aug 2022 04:52:55 GMT</pubDate>
+    <pubDate>Thu, 11 Aug 2022 05:16:48 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>vscode快捷键</title>
+      <link>http://example.com/2022/08/11/vscode%E5%BF%AB%E6%8D%B7%E9%94%AE/</link>
+      <guid>http://example.com/2022/08/11/vscode%E5%BF%AB%E6%8D%B7%E9%94%AE/</guid>
+      <pubDate>Thu, 11 Aug 2022 05:11:15 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;vscode常用快捷键&quot;&gt;&lt;a href=&quot;#vscode常用快捷键&quot; class=&quot;headerlink&quot; title=&quot;vscode常用快捷键&quot;&gt;&lt;/a&gt;vscode常用快捷键&lt;/h2&gt;&lt;h4 id=&quot;1-代码格式化：shift-Alt-F&quot;&gt;&lt;a href=</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="vscode常用快捷键"><a href="#vscode常用快捷键" class="headerlink" title="vscode常用快捷键"></a>vscode常用快捷键</h2><h4 id="1-代码格式化：shift-Alt-F"><a href="#1-代码格式化：shift-Alt-F" class="headerlink" title="1.代码格式化：shift+Alt+F"></a>1.代码格式化：shift+Alt+F</h4><h4 id="2-向上或者向下移动一行：Alt-Up或Alt-Down"><a href="#2-向上或者向下移动一行：Alt-Up或Alt-Down" class="headerlink" title="2.向上或者向下移动一行：Alt+Up或Alt+Down"></a>2.向上或者向下移动一行：Alt+Up或Alt+Down</h4><h4 id="3-快速复制一行代码：Shift-Alt-Up或者Shift-Alt-Down"><a href="#3-快速复制一行代码：Shift-Alt-Up或者Shift-Alt-Down" class="headerlink" title="3.快速复制一行代码：Shift+Alt+Up或者Shift+Alt+Down"></a>3.快速复制一行代码：Shift+Alt+Up或者Shift+Alt+Down</h4><h4 id="4-快速保存：Ctrl-S"><a href="#4-快速保存：Ctrl-S" class="headerlink" title="4.快速保存：Ctrl+S"></a>4.快速保存：Ctrl+S</h4><h4 id="5-快速查找：Ctrl-F"><a href="#5-快速查找：Ctrl-F" class="headerlink" title="5.快速查找：Ctrl+F"></a>5.快速查找：Ctrl+F</h4><h4 id="6-快速替换：Ctrl-H"><a href="#6-快速替换：Ctrl-H" class="headerlink" title="6.快速替换：Ctrl+H"></a>6.快速替换：Ctrl+H</h4><h4 id="7-x2F-生成浏览器文件-html的快捷方式：-英文-回车"><a href="#7-x2F-生成浏览器文件-html的快捷方式：-英文-回车" class="headerlink" title="7&#x2F;生成浏览器文件.html的快捷方式：!(英文)+回车"></a>7&#x2F;生成浏览器文件.html的快捷方式：!(英文)+回车</h4>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2022/08/11/vscode%E5%BF%AB%E6%8D%B7%E9%94%AE/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>前端学习路线</title>
