@@ -9,8 +9,30 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>天青色等烟雨，而我在等你！</description>
-    <pubDate>Thu, 11 Aug 2022 08:37:23 GMT</pubDate>
+    <pubDate>Fri, 12 Aug 2022 12:03:40 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>HTML5新标签</title>
+      <link>http://example.com/2022/08/12/HTML5%E6%96%B0%E6%A0%87%E7%AD%BE/</link>
+      <guid>http://example.com/2022/08/12/HTML5%E6%96%B0%E6%A0%87%E7%AD%BE/</guid>
+      <pubDate>Fri, 12 Aug 2022 11:57:03 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h3 id=&quot;HTML5新增标签&quot;&gt;&lt;a href=&quot;#HTML5新增标签&quot; class=&quot;headerlink&quot; title=&quot;HTML5新增标签&quot;&gt;&lt;/a&gt;HTML5新增标签&lt;/h3&gt;&lt;p&gt;1.&amp;lt; header&amp;gt;&amp;lt; &amp;#x2F;header&amp;gt;头部&lt;/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h3 id="HTML5新增标签"><a href="#HTML5新增标签" class="headerlink" title="HTML5新增标签"></a>HTML5新增标签</h3><p>1.&lt; header&gt;&lt; &#x2F;header&gt;头部</p><p>2.&lt; nav&gt;&lt; &#x2F;nav&gt;导航</p><p>3.&lt; section&gt;&lt; &#x2F;section&gt; 定义文档中的节，比如章节、页眉、页脚</p><p>4.&lt; aside&gt;&lt; &#x2F;aside&gt;侧边栏</p><p>5.&lt; footer&gt;&lt; &#x2F;footer&gt;脚部</p><p>6.&lt; article&gt;&lt; &#x2F;article&gt;代表一个独立的、完整的相关内容块，例如一篇完整的论坛帖子，一篇博客文章，一个用户评论等</p><h4 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h4><p>1.可以使布局更加清晰</p><p>2.有利于seo</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2022/08/12/HTML5%E6%96%B0%E6%A0%87%E7%AD%BE/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>标题标签</title>
